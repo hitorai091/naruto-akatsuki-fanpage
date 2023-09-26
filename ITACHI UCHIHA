@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Itachi Uchiha Fan Page</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Add your custom CSS file if needed -->
+</head>
+
+<body>
+
+    <header>
+        <h1>Itachi Uchiha Fan Page</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About Itachi</a></li>
+            <li><a href="#jutsu">Jutsu</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Itachi Uchiha</h2>
+        <p>Write a brief introduction about Itachi, his background, and his significance in the Naruto series.</p>
+    </section>
+
+    <section id="jutsu">
+        <h2>Itachi's Jutsu</h2>
+        <p>List some of Itachi's notable jutsu and techniques along with descriptions.</p>
+    </section>
+
+    <section id="gallery">
+        <h2>Image Gallery</h2>
+        <!-- Add images of Itachi -->
+        <img src="itachi1.jpg" alt="Itachi Uchiha">
+        <img src="itachi2.jpg" alt="Itachi Uchiha">
+        <!-- Add more images as needed -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or want to share your love for Itachi, feel free to reach out!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+
+</body>
+
+</html>
